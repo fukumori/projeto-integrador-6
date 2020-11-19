@@ -1,0 +1,12 @@
+{
+  "name": "cents",
+  "version": "0.0.1",
+  "description": "MVP Projeto Integrador 6 - UNIVESP",
+  "author": "Levi Fukumori <levi@fukumori.com.br>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^2.4.3",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}
